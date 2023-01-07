@@ -45,4 +45,4 @@
     . /etc/profile
     scp /etc/profile slave1:/etc/    #进入slave1使环境变量生效
     scp /etc/profile slave2:/etc/    #进入slave2使环境变量生效
-   
+#配置slaves文件、core-site.xml文件等
